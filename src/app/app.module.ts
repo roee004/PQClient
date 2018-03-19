@@ -10,7 +10,7 @@ import { MaterialModule } from './material/material.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
-import "reflect-metadata";
+
 
 @NgModule({
   declarations: [
