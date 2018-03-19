@@ -46,6 +46,8 @@ https://material.angular.io/guide/getting-started - for angular materials compon
 npm install --save @angular/material @angular/cdk
 npm install hammerjs --save
 
+
+
 https://github.com/typeorm/typeorm - for azure cloud sql server access
 
 npm install typeorm --save
@@ -54,7 +56,11 @@ npm install @types/node --save
 npm install mssql --save (microsoft sql driver)
 
 # typeorm integration
+ commit changes to git before this process
 
 
+# material intergration
+
+add to main.ts import 'hammerjs';
 
 
